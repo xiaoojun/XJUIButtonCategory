@@ -14,6 +14,7 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		BE3E78F12DA7292364F37E18 /* Pods_XJUIButtonCategory_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D8AD0E40488BC8E706A4DBA /* Pods_XJUIButtonCategory_Example.framework */; };
+		EA2C92FB22A8F977002FA456 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = EA2C92FA22A8F977002FA456 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		81EA4E613A842767F533F6DC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		8D8AD0E40488BC8E706A4DBA /* Pods_XJUIButtonCategory_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XJUIButtonCategory_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D22AE3FF5D150C34BAE61C76 /* Pods-XJUIButtonCategory_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XJUIButtonCategory_Example.release.xcconfig"; path = "Target Support Files/Pods-XJUIButtonCategory_Example/Pods-XJUIButtonCategory_Example.release.xcconfig"; sourceTree = "<group>"; };
+		EA2C92FA22A8F977002FA456 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			children = (
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
+				EA2C92FA22A8F977002FA456 /* screenshot.png */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
 				607FACDC1AFB9204008FA782 /* Images.xcassets */,
 				607FACDE1AFB9204008FA782 /* LaunchScreen.xib */,
@@ -238,6 +241,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
+				EA2C92FB22A8F977002FA456 /* screenshot.png in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
