@@ -8,7 +8,7 @@
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
+![image](https://github.com/xiaoojun/XJUIButtonCategory/blob/master/Example/XJUIButtonCategory/screenshot.png)
 ## Requirements
 
 ## Installation
