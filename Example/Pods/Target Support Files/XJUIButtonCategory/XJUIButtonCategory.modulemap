@@ -1,0 +1,6 @@
+framework module XJUIButtonCategory {
+  umbrella header "XJUIButtonCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

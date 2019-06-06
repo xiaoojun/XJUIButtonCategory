@@ -1,5 +1,5 @@
 import XCTest
-import XJUIButtonCategory
+//import XJUIButtonCategory
 
 class Tests: XCTestCase {
     

@@ -8,8 +8,9 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XJUIButtonCategory'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of XJUIButtonCategory.'
+  s.version          = '1.0.0'
+  s.summary          = '便捷设置按钮上的文字和图片布局。。。'
+  s.swift_version    = '4.2'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +22,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/961721716@qq.com/XJUIButtonCategory'
+  s.homepage         = 'https://github.com/xiaoojun/XJUIButtonCategory'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '961721716@qq.com' => '961721716@qq.com' }
-  s.source           = { :git => 'https://github.com/961721716@qq.com/XJUIButtonCategory.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/xiaoojun/XJUIButtonCategory.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
@@ -37,6 +38,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit' 
   # s.dependency 'AFNetworking', '~> 2.3'
 end

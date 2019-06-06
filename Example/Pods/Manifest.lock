@@ -1,0 +1,16 @@
+PODS:
+  - XJUIButtonCategory (1.0.0)
+
+DEPENDENCIES:
+  - XJUIButtonCategory (from `../`)
+
+EXTERNAL SOURCES:
+  XJUIButtonCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XJUIButtonCategory: 0759298e8b32df81fd6a3472180cd16f3c147277
+
+PODFILE CHECKSUM: 6d98dda3b975d628ee41fe8f5a2ba675a5276bf3
+
+COCOAPODS: 1.6.1
