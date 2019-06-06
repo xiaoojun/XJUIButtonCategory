@@ -17,12 +17,12 @@ XJUIButtonCategory is available through [CocoaPods](https://cocoapods.org). To i
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'XJUIButtonCategory'
+pod 'XJUIButtonCategory','~> 1.0.1'
 ```
 
 ## Author
 
-961721716@qq.com, 961721716@qq.com
+961721716@qq.com
 
 ## License
 
