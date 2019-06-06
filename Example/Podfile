@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XJUIButtonCategory_Example' do
+  pod 'XJUIButtonCategory', :path => '../'
+
+  target 'XJUIButtonCategory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
